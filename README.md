@@ -5,3 +5,9 @@ In this project I built and trained an FCN to find a specific person in images f
 Rubic Components
 
 Code
+
+What Worked
+
+What Didn't Work
+
+Future Improvements
