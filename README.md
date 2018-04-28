@@ -6,6 +6,8 @@ Rubic Components
 
 Code
 
+   Architecture
+
 What Worked
 
 What Didn't Work
