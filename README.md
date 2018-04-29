@@ -7,9 +7,23 @@ Rubic Components
 Code
 
    Architecture
+   
+   Neural Network 
+       Epoch
+       Learning Rate
+       Batch Size
+       
+       1x1 convolutions
+       fully connected layer
+       
+   Encoding/Decoding Images
+   
+
 
 What Worked
 
 What Didn't Work
 
 Future Improvements
+
+    NN Limitations
