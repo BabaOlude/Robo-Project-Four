@@ -14,14 +14,14 @@ Code
    
    Neural Network 
    
-       Explanation of Epoch(s)
+   Explanation of Epoch(s)
 What is an epoch? The epoch is the date and time in a computer to which the clock and timestamp are determined. Therefore, the number of epoch is the total number iterations on the dataset. The validation steps should include validating images over a batch size because all data should be on every epoch. Therefore, all the epochs were run through all the training images. I also tested at several different learning rates to see which one worked best.
 
-       Learning Rate
-       Batch Size
+   Learning Rate
+   Batch Size
        
-       1x1 convolutions
-       fully connected layer
+   1x1 convolutions
+   fully connected layer
        
    Encoding/Decoding Images
    
